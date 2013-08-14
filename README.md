@@ -1,0 +1,4 @@
+devchecklist
+============
+
+Developer's Checklist
